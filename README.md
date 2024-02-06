@@ -18,9 +18,12 @@ neat.hk
 neat.wtf  
 neatcommerce.com  
 neattest.com  
-rapyd.com 
+rapyd.com
+ 
 rapyd.net 
+
 rapyd.org 
+
 jointhemoment.net
 
 - Put all this in a text file name "domain_list.txt" , And then simpally run the script like this ./subdomain_scraping.sh
