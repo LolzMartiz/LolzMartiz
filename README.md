@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @LolzMartiz
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Penetration testing
-- 💞️ I’m looking to collaborate on Ethical Hacking
+Hello, I am a cybersecurity enthusiast who has completed my bachelor’s degree and has been pursuing my passion for the past three years. I have gained valuable experience in web app security testing through an internship at Famsham, a leading company in the field. I have also been involved in bug bounty hunting and developing my own methodology for finding and reporting vulnerabilities. I have successfully discovered bugs in organizations like Huawei, Khan Academy, and Sephora, and earned recognition and rewards for my work. Currently, I am doing my master’s degree and looking for a challenging and rewarding core security job that will allow me to leverage my skills and grow in the community. I am eager to learn new things and contribute to the security of the digital world.
 - 📫 How to reach me lolzmartiz@gmail.com
 
 <!---
