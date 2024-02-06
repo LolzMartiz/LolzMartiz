@@ -1,26 +1,31 @@
-Hello, I am a cybersecurity enthusiast who has completed my bachelor’s degree and has been pursuing my passion for the past three years. I have gained valuable experience in web app security testing through an internship at Famsham, a leading company in the field. I have also been involved in bug bounty hunting and developing my own methodology for finding and reporting vulnerabilities. I have successfully discovered bugs in organizations like Huawei, Khan Academy, and Sephora, and earned recognition and rewards for my work. Currently, I am doing my master’s degree and looking for a challenging and rewarding core security job that will allow me to leverage my skills and grow in the community. I am eager to learn new things and contribute to the security of the digital world.
-- 📫 How to reach me lolzmartiz@gmail.com
+Here is a draft introduction and description for your GitHub page and bash script based on the details provided:
 
-<!---
-LolzMartiz/LolzMartiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-𝐓𝐡𝐢𝐬 𝐬𝐮𝐛𝐝𝐨𝐦𝐚𝐢𝐧_𝐬𝐜𝐫𝐚𝐩𝐢𝐧𝐠.𝐬𝐡 𝐢𝐬 𝐚 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐬𝐜𝐫𝐢𝐩𝐭 𝐬𝐨 𝐚𝐬𝐬𝐞𝐭 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐲 𝐨𝐟 𝐚 𝐓𝐚𝐫𝐠𝐞𝐭 .
-- You need to edit the script and put you Buffer Over API key in x-api-key: feild of fetch_bufferover function .
-- Now all you need to make a text file containig all the Assets of the organization . Eg- Here we are taking a Bugcrowd listed target "Rapyd"
+# Hi there 👋, I'm Martiz - An Aspiring Cybersecurity Researcher
 
--korta.is  
--kortathjonustan.is    
--neat.com.hk
--neat.hk   
--neat.wtf  
--neatcommerce.com  
--neattest.com  
--rapyd.com 
--rapyd.net 
--rapyd.org 
--jointhemoment.net   
+I am a cybersecurity enthusiast with a passion for finding vulnerabilities and automation. Successfully completed my Bachelor's, I further developed my skills with hands-on experience in web app testing, bug bounties, and security research. 
 
-- Put all this in a text file name "domain_list.txt" , And then simpally run the script like this " ./subdomain_scraping.sh "
+As a self-driven learner, I created this automated subdomain discovery script to practice my skills and contribute back to the community. Feel free to connect with me to discuss cybersecurity or opportunities!
 
-- After the completed , just remove the junk using  " rm ip_addresses_* && rm unique_subdomains_* " and look for all the subdomain in all_unique_subdomains.txt . 
+📫 How to reach me: lolzmartiz@gmail.com
+
+## Subdomain Discovery Automation Script
+
+This subdomain_scraping.sh script allows automated subdomain discovery and asset tracking for a target organization. 
+
+### How It Works
+
+- It fetches subdomains from BufferOver API and processes them to output a consolidated list of unique subdomains found.  
+- Simply update the script with your BufferOver API key and input a file containing root domains to scan.
+- The final output file contains all unique subdomains discovered during the automated process.
+
+### Usage
+
+- Configure your BufferOver API key in the fetch_bufferover function
+- Input root domains in domain_list.txt (example included) 
+- Run: `./subdomain_scraping.sh`
+- Final output with all found subdomains is saved in all_unique_subdomains.txt
+- Remove other temporary output files: `rm ip_addresses_* && rm unique_subdomains_*`
+
+This script demonstrates my skills in automation, API integration, and output parsing/processing - allowing easy subdomain discovery at scale. It can be customized and integrated into any security workflow.
+
+Let me know if you have any other questions!
