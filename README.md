@@ -23,6 +23,6 @@ rapyd.net
 rapyd.org 
 jointhemoment.net
 
-Put all this in a text file name "domain_list.txt" , And then simpally run the script like this ./subdomain_scraping.sh
+- Put all this in a text file name "domain_list.txt" , And then simpally run the script like this ./subdomain_scraping.sh
 
-After the completed , just remove the junk using  " rm ip_addresses_* && rm unique_subdomains_* " and look for all the subdomain in all_unique_subdomains.txt . 
+- After the completed , just remove the junk using  " rm ip_addresses_* && rm unique_subdomains_* " and look for all the subdomain in all_unique_subdomains.txt . 
