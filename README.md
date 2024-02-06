@@ -1,4 +1,4 @@
-Here is a draft introduction and description for your GitHub page and bash script based on the details provided:
+
 
 # Hi there 👋, I'm Martiz - An Aspiring Cybersecurity Researcher
 
