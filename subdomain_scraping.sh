@@ -34,7 +34,7 @@ fetch_threatcrowd() {
 
 # Function to fetch information from BufferOver TLS API
 fetch_bufferover() {
-    bufferover_output=$(curl -s "https://tls.bufferover.run/dns?q=.$1" -H 'x-api-key: MbPgEgnp8M90J94Ucr4gN9zm5OdftJTurevnoir')
+    bufferover_output=$(curl -s "https://tls.bufferover.run/dns?q=.$1" -H 'x-api-key: MbPgEgnp8M90J94Ucr4gN9zm5OdftJTurevsvhdba')
     grep -Po '([0-9]{1,3}\.){3}[0-9]{1,3}|[\w.-]+\.\w+' <<< "$bufferover_output" | sort -u
 }
 
