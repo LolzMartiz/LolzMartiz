@@ -12,9 +12,6 @@ You can click the Preview link to take a look at your changes.
 - You need to edit the script and put you Buffer Over API key in x-api-key: feild of fetch_bufferover function .
 - Now all you need to make a text file containig all the Assets of the organization . Eg- Here we are taking a Bugcrowd listed target "Rapyd"
 korta.is
-rapyd.net
-rapyd.org 
-jointhemoment.net  
 kortathjonustan.is    
 neat.com.hk
 neat.hk   
@@ -22,7 +19,6 @@ neat.wtf
 neatcommerce.com  
 neattest.com  
 rapyd.com
-
 
 - Put all this in a text file name "domain_list.txt" , And then simpally run the script like this ./subdomain_scraping.sh
 
