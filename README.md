@@ -28,4 +28,4 @@ This subdomain_scraping.sh script allows automated subdomain discovery and asset
 
 This script demonstrates my skills in automation, API integration, and output parsing/processing - allowing easy subdomain discovery at scale. It can be customized and integrated into any security workflow.
 
-Let me know if you have any other questions!
+
